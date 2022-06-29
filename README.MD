@@ -22,5 +22,6 @@ Para seleccionar la clase principal en caso de errores:
 ## A tener en cuenta
 
 - Al ser un proyecto maven las librerias se cargan en pom.xml
-- Tengo una sobrecarga al iniciar el Formulario, que laguien corra el programa y corrobore si es mi PC o es el sistema Programado.
+- Tengo una sobrecarga al iniciar el Formulario, que alguien corra el programa y corrobore si es mi PC o es el sistema Programado.
+- Al reestructurar hubieron perdida de iconos y colores en las vistas, evite minimizar los daños para que se vuelvan a hacer dichas vistas.
 
