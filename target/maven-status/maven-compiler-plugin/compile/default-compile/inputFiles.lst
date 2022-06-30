@@ -1,46 +1,47 @@
-/home/david/Documentos/ProyectoFNH/src/main/java/Controller/AdministradoresController.java
-/home/david/Documentos/ProyectoFNH/src/main/java/View/PsicologÃ­a.java
-/home/david/Documentos/ProyectoFNH/src/main/java/View/perfil_administrador.java
-/home/david/Documentos/ProyectoFNH/src/main/java/View/inscripciones.java
-/home/david/Documentos/ProyectoFNH/src/main/java/Models/Familiares.java
-/home/david/Documentos/ProyectoFNH/src/main/java/Controller/CoordinadoresController.java
-/home/david/Documentos/ProyectoFNH/src/main/java/Controller/OtrosController.java
-/home/david/Documentos/ProyectoFNH/src/main/java/Models/Alertas.java
-/home/david/Documentos/ProyectoFNH/src/main/java/Models/Coordinadores.java
-/home/david/Documentos/ProyectoFNH/src/main/java/Controller/AlertasController.java
-/home/david/Documentos/ProyectoFNH/src/main/java/Models/Estudiantes.java
-/home/david/Documentos/ProyectoFNH/src/main/java/View/Recuperar_ContraseÃ±a.java
-/home/david/Documentos/ProyectoFNH/src/main/java/Models/Otros.java
-/home/david/Documentos/ProyectoFNH/src/main/java/Models/Psicologia.java
-/home/david/Documentos/ProyectoFNH/src/main/java/View/perfil_estudiante.java
-/home/david/Documentos/ProyectoFNH/src/main/java/View/perfil_profesor.java
-/home/david/Documentos/ProyectoFNH/src/main/java/View/Loggin2.java
-/home/david/Documentos/ProyectoFNH/src/main/java/Controller/PadresController.java
-/home/david/Documentos/ProyectoFNH/src/main/java/Models/Administradores.java
-/home/david/Documentos/ProyectoFNH/src/main/java/Controller/UsuariosController.java
-/home/david/Documentos/ProyectoFNH/src/main/java/Models/Profesores.java
-/home/david/Documentos/ProyectoFNH/src/main/java/Models/Padres.java
-/home/david/Documentos/ProyectoFNH/src/main/java/Models/Viviendas.java
-/home/david/Documentos/ProyectoFNH/src/main/java/Models/Registros.java
-/home/david/Documentos/ProyectoFNH/src/main/java/Controller/PsicologiaController.java
-/home/david/Documentos/ProyectoFNH/src/main/java/Models/Personas.java
-/home/david/Documentos/ProyectoFNH/src/main/java/View/Notificaciones.java
-/home/david/Documentos/ProyectoFNH/src/main/java/Controller/RegistrosController.java
-/home/david/Documentos/ProyectoFNH/src/main/java/Controller/MadresController.java
-/home/david/Documentos/ProyectoFNH/src/main/java/Models/Usuarios.java
-/home/david/Documentos/ProyectoFNH/src/main/java/Models/Roles.java
-/home/david/Documentos/ProyectoFNH/src/main/java/ProyFundacionNH/ProyFundacionNH.java
-/home/david/Documentos/ProyectoFNH/src/main/java/Controller/AcudientesController.java
-/home/david/Documentos/ProyectoFNH/src/main/java/Controller/RolesController.java
-/home/david/Documentos/ProyectoFNH/src/main/java/Models/Madres.java
-/home/david/Documentos/ProyectoFNH/src/main/java/View/Listados_Estudiantes.java
-/home/david/Documentos/ProyectoFNH/src/main/java/Controller/PersonasController.java
-/home/david/Documentos/ProyectoFNH/src/main/java/Models/Notas.java
-/home/david/Documentos/ProyectoFNH/src/main/java/Controller/NotasController.java
-/home/david/Documentos/ProyectoFNH/src/main/java/Controller/EstudiantesController.java
-/home/david/Documentos/ProyectoFNH/src/main/java/Controller/FamiliaresController.java
-/home/david/Documentos/ProyectoFNH/src/main/java/Models/Acudientes.java
-/home/david/Documentos/ProyectoFNH/src/main/java/Controller/ViviendasController.java
-/home/david/Documentos/ProyectoFNH/src/main/java/View/perfil_coordinador.java
-/home/david/Documentos/ProyectoFNH/src/main/java/View/Principal.java
-/home/david/Documentos/ProyectoFNH/src/main/java/Controller/ProfesoresController.java
+C:\Users\nicro\Desktop\ADSI FNH\InterfacesADSI\src\main\java\ProyFundacionNH\controller\EstudiantesController.java
+C:\Users\nicro\Desktop\ADSI FNH\InterfacesADSI\src\main\java\ProyFundacionNH\view\Prueba.java
+C:\Users\nicro\Desktop\ADSI FNH\InterfacesADSI\src\main\java\ProyFundacionNH\models\Alertas.java
+C:\Users\nicro\Desktop\ADSI FNH\InterfacesADSI\src\main\java\ProyFundacionNH\controller\PersonasController.java
+C:\Users\nicro\Desktop\ADSI FNH\InterfacesADSI\src\main\java\ProyFundacionNH\models\Roles.java
+C:\Users\nicro\Desktop\ADSI FNH\InterfacesADSI\src\main\java\ProyFundacionNH\controller\CoordinadoresController.java
+C:\Users\nicro\Desktop\ADSI FNH\InterfacesADSI\src\main\java\ProyFundacionNH\view\perfil_profesor.java
+C:\Users\nicro\Desktop\ADSI FNH\InterfacesADSI\src\main\java\ProyFundacionNH\controller\MadresController.java
+C:\Users\nicro\Desktop\ADSI FNH\InterfacesADSI\src\main\java\ProyFundacionNH\controller\AdministradoresController.java
+C:\Users\nicro\Desktop\ADSI FNH\InterfacesADSI\src\main\java\ProyFundacionNH\controller\PsicologiaController.java
+C:\Users\nicro\Desktop\ADSI FNH\InterfacesADSI\src\main\java\ProyFundacionNH\models\Profesores.java
+C:\Users\nicro\Desktop\ADSI FNH\InterfacesADSI\src\main\java\ProyFundacionNH\controller\PadresController.java
+C:\Users\nicro\Desktop\ADSI FNH\InterfacesADSI\src\main\java\ProyFundacionNH\view\perfil_administrador.java
+C:\Users\nicro\Desktop\ADSI FNH\InterfacesADSI\src\main\java\ProyFundacionNH\view\inscripciones.java
+C:\Users\nicro\Desktop\ADSI FNH\InterfacesADSI\src\main\java\ProyFundacionNH\controller\UsuariosController.java
+C:\Users\nicro\Desktop\ADSI FNH\InterfacesADSI\src\main\java\ProyFundacionNH\controller\ViviendasController.java
+C:\Users\nicro\Desktop\ADSI FNH\InterfacesADSI\src\main\java\ProyFundacionNH\controller\OtrosController.java
+C:\Users\nicro\Desktop\ADSI FNH\InterfacesADSI\src\main\java\ProyFundacionNH\models\Padres.java
+C:\Users\nicro\Desktop\ADSI FNH\InterfacesADSI\src\main\java\ProyFundacionNH\view\perfil_coordinador.java
+C:\Users\nicro\Desktop\ADSI FNH\InterfacesADSI\src\main\java\ProyFundacionNH\ProyFundacionNH.java
+C:\Users\nicro\Desktop\ADSI FNH\InterfacesADSI\src\main\java\ProyFundacionNH\view\Loggin2.java
+C:\Users\nicro\Desktop\ADSI FNH\InterfacesADSI\src\main\java\ProyFundacionNH\models\Usuarios.java
+C:\Users\nicro\Desktop\ADSI FNH\InterfacesADSI\src\main\java\ProyFundacionNH\controller\FamiliaresController.java
+C:\Users\nicro\Desktop\ADSI FNH\InterfacesADSI\src\main\java\ProyFundacionNH\models\Registros.java
+C:\Users\nicro\Desktop\ADSI FNH\InterfacesADSI\src\main\java\ProyFundacionNH\view\Principal.java
+C:\Users\nicro\Desktop\ADSI FNH\InterfacesADSI\src\main\java\ProyFundacionNH\models\Otros.java
+C:\Users\nicro\Desktop\ADSI FNH\InterfacesADSI\src\main\java\ProyFundacionNH\models\Familiares.java
+C:\Users\nicro\Desktop\ADSI FNH\InterfacesADSI\src\main\java\ProyFundacionNH\view\Notificaciones.java
+C:\Users\nicro\Desktop\ADSI FNH\InterfacesADSI\src\main\java\ProyFundacionNH\view\perfil_estudiante.java
+C:\Users\nicro\Desktop\ADSI FNH\InterfacesADSI\src\main\java\ProyFundacionNH\models\Personas.java
+C:\Users\nicro\Desktop\ADSI FNH\InterfacesADSI\src\main\java\ProyFundacionNH\controller\AcudientesController.java
+C:\Users\nicro\Desktop\ADSI FNH\InterfacesADSI\src\main\java\ProyFundacionNH\controller\AlertasController.java
+C:\Users\nicro\Desktop\ADSI FNH\InterfacesADSI\src\main\java\ProyFundacionNH\models\Madres.java
+C:\Users\nicro\Desktop\ADSI FNH\InterfacesADSI\src\main\java\ProyFundacionNH\controller\NotasController.java
+C:\Users\nicro\Desktop\ADSI FNH\InterfacesADSI\src\main\java\ProyFundacionNH\models\Coordinadores.java
+C:\Users\nicro\Desktop\ADSI FNH\InterfacesADSI\src\main\java\ProyFundacionNH\models\Psicologia.java
+C:\Users\nicro\Desktop\ADSI FNH\InterfacesADSI\src\main\java\ProyFundacionNH\models\Notas.java
+C:\Users\nicro\Desktop\ADSI FNH\InterfacesADSI\src\main\java\ProyFundacionNH\models\Viviendas.java
+C:\Users\nicro\Desktop\ADSI FNH\InterfacesADSI\src\main\java\ProyFundacionNH\view\Recuperar_Contraseña.java
+C:\Users\nicro\Desktop\ADSI FNH\InterfacesADSI\src\main\java\ProyFundacionNH\controller\RolesController.java
+C:\Users\nicro\Desktop\ADSI FNH\InterfacesADSI\src\main\java\ProyFundacionNH\view\Psicología.java
+C:\Users\nicro\Desktop\ADSI FNH\InterfacesADSI\src\main\java\ProyFundacionNH\controller\ProfesoresController.java
+C:\Users\nicro\Desktop\ADSI FNH\InterfacesADSI\src\main\java\ProyFundacionNH\models\Administradores.java
+C:\Users\nicro\Desktop\ADSI FNH\InterfacesADSI\src\main\java\ProyFundacionNH\models\Estudiantes.java
+C:\Users\nicro\Desktop\ADSI FNH\InterfacesADSI\src\main\java\ProyFundacionNH\view\Listados_Estudiantes.java
+C:\Users\nicro\Desktop\ADSI FNH\InterfacesADSI\src\main\java\ProyFundacionNH\controller\RegistrosController.java
+C:\Users\nicro\Desktop\ADSI FNH\InterfacesADSI\src\main\java\ProyFundacionNH\models\Acudientes.java
