@@ -3,6 +3,7 @@
 
 - Se debe reestructurar las imagenes de las vistas
 - Hubo errores al crear paquetes
+- IMPORTANTE JDK 17, versiones inferiores trabajan normal
 
 ## Correccion de errores
 
